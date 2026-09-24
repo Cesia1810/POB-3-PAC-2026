@@ -1,0 +1,5 @@
+# PASO A PASO CONFIGURAR GIT
+
+## 1
+## 2 
+## 3
